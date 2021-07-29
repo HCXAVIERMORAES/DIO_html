@@ -1,0 +1,9 @@
+/*alterando a cor e tamanho das fontes dos titulo*/
+#title, .subtitle, .post-title {
+    color: blue;
+}
+
+.post-title {
+    font-size: 16px;
+    font-style: italic;
+}

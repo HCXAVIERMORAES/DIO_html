@@ -1,5 +1,5 @@
 /*alterando a cor e tamanho das fontes dos titulo*/
-#title, .subtitle, .post-title {
+#title , .post-title , .sub-titles {
     color: blue;
 }
 
